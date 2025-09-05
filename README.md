@@ -5,7 +5,7 @@
 
   <img src="./public/banner.png" alt="preview" />
 
-<a href="https://jj-newsletter.vercel.app/">Demo</a>
+<a href="https://bee-newsletter-iv.vercel.app/">Demo</a>
 
 </div>
 
