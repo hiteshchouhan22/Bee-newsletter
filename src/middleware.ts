@@ -1,6 +1,8 @@
 import { authMiddleware } from "@clerk/nextjs";
 import { NextRequest, NextResponse, NextFetchEvent } from "next/server";
 
+
+// can be used to handle CORS if needed
 // export function middleware(req: NextRequest, event: NextFetchEvent) {
 //   // Create a response object for OPTIONS requests or a default response for others
 //   let response = req.method === "OPTIONS" ? new NextResponse(null, {

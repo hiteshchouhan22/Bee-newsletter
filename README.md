@@ -55,7 +55,7 @@ Here's a snapshot of the development lifecycle of our platform:
 
 For further inquiries or potential collaborations, feel free to reach out:
 
-- **Email**: [jeff.jiang13@gmail.com](mailto:jeff.jiang13@gmail.com)
-- **LinkedIn**: [Jeff Jiang](https://www.linkedin.com/in/hiteshchouhan22/)
+- **Email**: [hiteshchouhan2003@gmail.com](mailto:hiteshchouhan2003@gmail.com)
+- **LinkedIn**: [Hitesh Chouhan](https://www.linkedin.com/in/hiteshchouhan22/)
 
 Feel free to connect with me for any queries or discussions related to this platform or other tech interests!
