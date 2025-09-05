@@ -36,7 +36,7 @@ export const DefaultJsonData = {
             deletable: true,
             hideable: true,
             text: `<p style="margin: 0; color: #ffffff; font-size: 16px;">Update your email preferences or unsubscribe <a href="https://jeff-jiang.com/#contact" style="color: #ffffff; text-decoration: underline;">here</a></p>
-                   <p style="margin: 0; color: #ffffff; font-size: 16px;">© 2024 IV</p>
+                   <p style="margin: 0; color: #ffffff; font-size: 16px;">© 2025 IV</p>
                    <p style="color: #ffffff;">228 Park Ave S, #29976, New York, New York 10003, United States</p>`,
           },
         }],

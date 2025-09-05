@@ -112,7 +112,7 @@ const Footer = () => {
               </div>
             </div>
               <p className="text-sm text-gray-400">
-                © 2024 IV, Inc. All rights reserved.
+                © 2025 IV, Inc. All rights reserved.
               </p>
             </div>
           </div>

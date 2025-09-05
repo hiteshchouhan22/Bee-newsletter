@@ -97,7 +97,7 @@ const DashboardItems = ({ bottomContent }: { bottomContent?: boolean }) => {
             </a>
           </div>
           <p className="text-sm pt-5 pb-10">
-            © 2024 IV, Inc. All rights reserved.
+            © 2025 IV, Inc. All rights reserved.
           </p>
         </>
       )}
