@@ -50,14 +50,12 @@ Here's a snapshot of the development lifecycle of our platform:
 - **Stripe Subscription Features**: Embedding Stripe for handling subscriptions.
 - **Deployment**: Launching the platform for public access.
 
-<<<<<<< HEAD
-=======
+
 ## 🌐 Connect with Me
 
 For further inquiries or potential collaborations, feel free to reach out:
 
 - **Email**: [jeff.jiang13@gmail.com](mailto:jeff.jiang13@gmail.com)
-- **LinkedIn**: [Jeff Jiang](https://www.linkedin.com/in/jeffjiang13/)
+- **LinkedIn**: [Jeff Jiang](https://www.linkedin.com/in/hiteshchouhan22/)
 
 Feel free to connect with me for any queries or discussions related to this platform or other tech interests!
->>>>>>> b05daa4bc08ade8dd0f0df600dc119d654c21b86

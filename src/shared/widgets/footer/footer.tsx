@@ -120,8 +120,8 @@ const Footer = () => {
             <a href="https://twitter.com" className="text-white"><FaTwitter /></a>
             <a href="https://instagram.com" className="text-white"><FaInstagram /></a>
             <a href="https://facebook.com" className="text-white"><FaFacebookF /></a>
-            <a href="https://linkedin.com/in/jeffjiang13" className="text-white"><FaLinkedinIn /></a>
-            <a href="https://github.com/jeffjiang13" className="text-white"><FaGithub /></a>
+            <a href="https://linkedin.com/in/hiteshchouhan22" className="text-white"><FaLinkedinIn /></a>
+            <a href="https://github.com/hiteshchouhan22" className="text-white"><FaGithub /></a>
           </div>
         </div>
       </footer>
